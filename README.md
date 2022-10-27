@@ -48,4 +48,4 @@ https://github.com/VQP5/EDA311/tree/main/Hito3/Procesual
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
