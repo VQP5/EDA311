@@ -46,6 +46,3 @@ Procesual
 https://github.com/VQP5/EDA311/tree/main/Hito3/Procesual  
 
 <br />
-
-----
-
