@@ -35,7 +35,7 @@ public class Main {
         //cola.mostrar();]
         //asignarVIP(cola, "GOLD", "Bolivia");
         //mayoresAlInicio(cola, 60);
-        moverSaul(cola, cola2, "Saul");
+        //moverSaul(cola, cola2, "Saul");
     }
 
     public static void asignarVIP(ColaDeClientes cola, String Tipo, String Pais) {
